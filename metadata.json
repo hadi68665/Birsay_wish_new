@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Surprise Showcase",
+  "description": "An interactive, beautifully animated birthday surprise page with loader, cake-cutting transition, personalized photo polaroids, and glowing messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
